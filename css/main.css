@@ -2198,7 +2198,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .info-toggle::after {
-  content: "More Info";
+  content: "ABOUT US";
   display: block;
   position: absolute;
   top: 0;
